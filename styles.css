@@ -40,6 +40,7 @@ nav ul a {
   /* max-width: 497px; */
   margin-top: 25px;
   font-family: "Poppins", sans-serif;
+  max-width: 500px;
 }
 .kotak-1 {
   display: flex;
@@ -47,7 +48,7 @@ nav ul a {
   width: 90%;
   padding-right: 20px;
   gap: 4rem;
-  margin-top: 80px;
+  margin-top: 62px;
   align-items: center;
 }
 
@@ -56,6 +57,7 @@ h3 {
   padding: 16px;
   /* max-width: 100%; */
   border-radius: 20px;
+  font-family: "Poppins", sans-serif;
 }
 .collection a {
   color: black;
@@ -64,8 +66,8 @@ h3 {
 .kotak-2 {
   display: flex;
   justify-content: space-around;
-  gap: 10rem;
-  margin-top: 70px;
+  gap: 25px;
+  margin-top: 50px;
   border: 1px solid black;
   padding: 50px;
   border-radius: 10px;
